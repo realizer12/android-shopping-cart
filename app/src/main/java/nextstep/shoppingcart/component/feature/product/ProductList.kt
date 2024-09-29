@@ -1,4 +1,4 @@
-package nextstep.shoppingcart.component.product
+package nextstep.shoppingcart.component.feature.product
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.padding

@@ -1,4 +1,4 @@
-package nextstep.shoppingcart.component.button
+package nextstep.shoppingcart.component.core.button
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height

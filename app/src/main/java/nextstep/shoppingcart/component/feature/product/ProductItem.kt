@@ -1,4 +1,4 @@
-package nextstep.shoppingcart.component.product
+package nextstep.shoppingcart.component.feature.product
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
@@ -14,8 +14,8 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import nextstep.shoppingcart.component.image.ProductImage
-import nextstep.shoppingcart.component.image.ProductImageRatioType
+import nextstep.shoppingcart.component.core.image.ProductImage
+import nextstep.shoppingcart.component.core.image.ProductImageRatioType
 import nextstep.shoppingcart.ui.theme.ShoppingCartTheme
 import nextstep.shoppingcart.util.getLocalCurrencyFormat
 import java.util.Locale

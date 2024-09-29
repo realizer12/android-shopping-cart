@@ -9,8 +9,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import nextstep.shoppingcart.component.product.ProductList
-import nextstep.shoppingcart.component.toolbar.ShoppingCartToolbar
+import nextstep.shoppingcart.component.feature.product.ProductList
+import nextstep.shoppingcart.component.core.toolbar.ShoppingCartToolbar
 import nextstep.shoppingcart.mock.shoppingItemMockList
 import nextstep.shoppingcart.ui.theme.ShoppingCartTheme
 

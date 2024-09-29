@@ -23,10 +23,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import nextstep.shoppingcart.R
-import nextstep.shoppingcart.component.button.AddCartButton
-import nextstep.shoppingcart.component.image.ProductImage
-import nextstep.shoppingcart.component.image.ProductImageRatioType
-import nextstep.shoppingcart.component.toolbar.BackButtonToolbar
+import nextstep.shoppingcart.component.core.button.AddCartButton
+import nextstep.shoppingcart.component.core.image.ProductImage
+import nextstep.shoppingcart.component.core.image.ProductImageRatioType
+import nextstep.shoppingcart.component.core.toolbar.BackButtonToolbar
 import nextstep.shoppingcart.mock.shoppingItemMockList
 import nextstep.shoppingcart.navigation.ERROR_PRODUCT_ID
 import nextstep.shoppingcart.ui.theme.ShoppingCartTheme

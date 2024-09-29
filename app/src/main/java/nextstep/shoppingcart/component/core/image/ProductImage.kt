@@ -1,4 +1,4 @@
-package nextstep.shoppingcart.component.image
+package nextstep.shoppingcart.component.core.image
 
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.runtime.Composable
@@ -18,7 +18,7 @@ import coil.compose.AsyncImage
 @Composable
 fun ProductImage(
     productThumbnail:String,
-    imageRatio:ProductImageRatioType = ProductImageRatioType.SHOPPING_ITEM_THUMBNAIL_RATIO
+    imageRatio: ProductImageRatioType = ProductImageRatioType.SHOPPING_ITEM_THUMBNAIL_RATIO
 ){
     AsyncImage(
         modifier = Modifier.aspectRatio(imageRatio.ratio),
